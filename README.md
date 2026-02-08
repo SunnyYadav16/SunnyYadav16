@@ -1,4 +1,4 @@
-# Hi, I'm Sunny Yadav 👋
+# Hi, I'm Sunny Yadav 👋 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green&label=PROFILE+POPULARITY)
 
 I am a **Master’s student in Computer Science at Northeastern University** (Boston, MA) with 2+ years of professional experience in Backend Engineering and Cloud Infrastructure.
 
