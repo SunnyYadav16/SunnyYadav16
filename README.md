@@ -7,19 +7,19 @@ I specialize in building scalable backend systems, optimizing cloud deployments,
 ---
 
 ### 🚀 What I've Built
-* **Predictive Modeling Engine:** A real-time NFL win-probability predictor analyzing 350K+ plays using **XGBoost & Random Forest**, achieving a <0.10 Brier score.
-* **BoomBox:** A full-stack SaaS streaming platform built with **React, Node.js, and WebSockets** featuring real-time chat and secure JWT authentication.
-* **Media Ingestion Service:** A scalable content delivery pipeline leveraging **AWS S3 and CloudFront** to normalize and securely stream video assets.
+* **[CourtAccess AI](https://github.com/SunnyYadav16/court-access-ai):** An MLOps platform solving language access gaps in the MA Trial Court. Features real-time speech translation (Whisper/NLLB-200) and automated legal document processing with PII protection.
+* **[Field-Vision](https://github.com/SunnyYadav16/field-vision):** An AI-powered industrial safety assistant using Gemini Live API for real-time video analysis, PPE detection, and hands-free voice interaction for field technicians.
+* **[Audio Streaming POC](https://github.com/SunnyYadav16/audio-streaming-poc):** A low-latency speech-to-speech pipeline featuring Voice Activity Detection (VAD), Faster-Whisper ASR, and Piper TTS built with FastAPI and React.
+* **[Predictive Modeling Engine](https://github.com/SunnyYadav16/predictive-modeling-engine):** A real-time NFL win-probability predictor analyzing 350K+ plays using **XGBoost & Random Forest**, achieving a <0.10 Brier score.
 ---
 
 ### ⚡ Tools & Technologies
 * **Languages:** Python, Golang (Go), Java, JavaScript/TypeScript, SQL, NoSQL, Bash
-* **Backend:** Django, FastAPI, Flask, React, Node.js, Express.js
-* **Cloud & DevOps:** AWS (S3, EC2, Lambda, RDS), Docker, Jenkins, CI/CD, Linux/Unix
-* **Database & Caching:** PostgreSQL, MongoDB, MySQL, Redis, DynamoDB
-* **AI & Data:** PyTorch, Scikit-learn, RAG, LLM, Pandas, NumPy
+* **Backend & Cloud:** FastAPI, Django, Node.js, AWS (S3, EC2, Lambda, RDS), Docker, Jenkins, CI/CD
+* **AI & Data:** PyTorch, Scikit-learn, RAG, LLMs, Pandas, NumPy, MLOps (DVC, MLflow)
+* **Databases:** PostgreSQL, MongoDB, Redis, DynamoDB
 ---
 
 ### 📫 How to Reach Me
-* **LinkedIn:** [linkedin.com/in/sunnyyadavdev](https://www.linkedin.com/in/sunnyyadavdev)
-* **Email:** yadav.sunny@northeastern.edu
+* **LinkedIn:** [linkedin.com/in/sunnyyadavdev](https://linkedin.com/in/sunnyyadavdev)
+* **Email:** [yadav.sunny@northeastern.edu](mailto:yadav.sunny@northeastern.edu)
